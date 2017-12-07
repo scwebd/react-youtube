@@ -1,6 +1,6 @@
 # React-YouTube
 
-Interested in learning [React & Redux](https://www.udemy.com/react-redux/)?)
+Interested in learning [React & Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
